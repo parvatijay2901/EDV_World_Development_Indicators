@@ -1,1 +1,1 @@
-# Exploratory Data Visualization: World Development Indicators
+# Data Visualization: World Development Indicators
