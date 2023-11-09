@@ -3,4 +3,4 @@ I am conducting exploratory data visualization with the World Development Indica
 
 The task here is to create a well-defined and relevant question or hypothesis that can be explored through extensive data visualization. Throughout the project, I have utilized Python to both manipulate the data and generate visualizations.
 
-The [https://datacatalog.worldbank.org/search/dataset/0037712](World Development Indicators (WDI)) serve as the main repository of development metrics within the World Bank, gathered from acknowledged sources. Since the dataset is quite large and contains multiple variables, I had to spend a significant amount of time in data cleaning, merging various datasets, and converting it into a format that is usable for analysis.
+The [World Development Indicators (WDI)](https://datacatalog.worldbank.org/search/dataset/0037712) serve as the main repository of development metrics within the World Bank, gathered from acknowledged sources. Since the dataset is quite large and contains multiple variables, I had to spend a significant amount of time in data cleaning, merging various datasets, and converting it into a format that is usable for analysis.
